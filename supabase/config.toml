@@ -1,0 +1,13 @@
+project_id = "ytgkklldfukwxesvqovl"
+
+[functions.submit-application]
+verify_jwt = false
+
+[functions.discord-interactions]
+verify_jwt = false
+
+[functions.verify-admin]
+verify_jwt = false
+
+[functions.update-bot-settings]
+verify_jwt = false
