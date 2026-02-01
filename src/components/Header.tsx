@@ -14,10 +14,10 @@ const Header = () => {
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center gap-3">
             <div className="w-10 h-10 rounded-full bg-gradient-to-br from-gold to-amber-600 flex items-center justify-center shadow-[0_0_20px_hsl(38_70%_45%/0.3)]">
-              <span className="text-background font-western font-bold text-lg">R</span>
+              <span className="text-background font-western font-bold text-lg">C</span>
             </div>
             <span className="font-western text-xl tracking-wider text-gradient-gold">
-              Redemption RP
+              Ceylone Outlaws RP
             </span>
           </Link>
 
