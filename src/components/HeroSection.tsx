@@ -30,9 +30,9 @@ const HeroSection = () => {
 
           {/* Main Heading */}
           <h1 className="font-western text-5xl md:text-7xl lg:text-8xl font-bold tracking-wide mb-6">
-            <span className="text-gradient-gold">Redemption</span>
+            <span className="text-gradient-gold">Ceylone Outlaws</span>
             <br />
-            <span className="text-foreground">Roleplay</span>
+            <span className="text-foreground">RP</span>
           </h1>
 
           {/* Subtitle */}
