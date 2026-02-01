@@ -7,15 +7,15 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-3">
             <div className="w-8 h-8 rounded-full bg-gradient-to-br from-gold to-amber-600 flex items-center justify-center">
-              <span className="text-background font-western font-bold text-sm">R</span>
+              <span className="text-background font-western font-bold text-sm">C</span>
             </div>
             <span className="font-western text-sm tracking-wider text-muted-foreground">
-              Redemption RP
+              Ceylone Outlaws RP
             </span>
           </div>
 
           <p className="text-sm text-muted-foreground">
-            © 2024 Redemption RP. All rights reserved.
+            © 2024 Ceylone Outlaws RP. All rights reserved.
           </p>
 
           <div className="flex items-center gap-6">
